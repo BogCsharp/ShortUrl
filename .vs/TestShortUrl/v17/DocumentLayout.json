@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Home_PC\\Desktop\\TestShortUrl\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D5CD2444-EAE6-462B-AC9D-96FFD85B7356}|TestShortUrl.csproj|c:\\users\\home_pc\\desktop\\testshorturl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5CD2444-EAE6-462B-AC9D-96FFD85B7356}|TestShortUrl.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D5CD2444-EAE6-462B-AC9D-96FFD85B7356}|TestShortUrl.csproj|c:\\users\\home_pc\\desktop\\testshorturl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5CD2444-EAE6-462B-AC9D-96FFD85B7356}|TestShortUrl.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CD2444-EAE6-462B-AC9D-96FFD85B7356}|TestShortUrl.csproj|c:\\users\\home_pc\\desktop\\testshorturl\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D5CD2444-EAE6-462B-AC9D-96FFD85B7356}|TestShortUrl.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CD2444-EAE6-462B-AC9D-96FFD85B7356}|TestShortUrl.csproj|c:\\users\\home_pc\\desktop\\testshorturl\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D5CD2444-EAE6-462B-AC9D-96FFD85B7356}|TestShortUrl.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D5CD2444-EAE6-462B-AC9D-96FFD85B7356}|TestShortUrl.csproj|c:\\users\\home_pc\\desktop\\testshorturl\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,20 +27,12 @@
       "RelativeMoniker": "D:0:0:{D5CD2444-EAE6-462B-AC9D-96FFD85B7356}|TestShortUrl.csproj|solutionrelative:services\\workerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5CD2444-EAE6-462B-AC9D-96FFD85B7356}|TestShortUrl.csproj|c:\\users\\home_pc\\desktop\\testshorturl\\mappers\\urlmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5CD2444-EAE6-462B-AC9D-96FFD85B7356}|TestShortUrl.csproj|solutionrelative:mappers\\urlmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5CD2444-EAE6-462B-AC9D-96FFD85B7356}|TestShortUrl.csproj|c:\\users\\home_pc\\desktop\\testshorturl\\models\\createshorturldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5CD2444-EAE6-462B-AC9D-96FFD85B7356}|TestShortUrl.csproj|solutionrelative:models\\createshorturldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D5CD2444-EAE6-462B-AC9D-96FFD85B7356}|TestShortUrl.csproj|c:\\users\\home_pc\\desktop\\testshorturl\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5CD2444-EAE6-462B-AC9D-96FFD85B7356}|TestShortUrl.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5CD2444-EAE6-462B-AC9D-96FFD85B7356}|TestShortUrl.csproj|c:\\users\\home_pc\\desktop\\testshorturl\\entities\\shorturl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5CD2444-EAE6-462B-AC9D-96FFD85B7356}|TestShortUrl.csproj|solutionrelative:entities\\shorturl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5CD2444-EAE6-462B-AC9D-96FFD85B7356}|TestShortUrl.csproj|c:\\users\\home_pc\\desktop\\testshorturl\\controllers\\urlscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CD2444-EAE6-462B-AC9D-96FFD85B7356}|TestShortUrl.csproj|solutionrelative:controllers\\urlscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D5CD2444-EAE6-462B-AC9D-96FFD85B7356}|TestShortUrl.csproj|c:\\users\\home_pc\\desktop\\testshorturl\\abstarcts\\iworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,8 +43,20 @@
       "RelativeMoniker": "D:0:0:{D5CD2444-EAE6-462B-AC9D-96FFD85B7356}|TestShortUrl.csproj|solutionrelative:models\\createurlresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5CD2444-EAE6-462B-AC9D-96FFD85B7356}|TestShortUrl.csproj|c:\\users\\home_pc\\desktop\\testshorturl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D5CD2444-EAE6-462B-AC9D-96FFD85B7356}|TestShortUrl.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{D5CD2444-EAE6-462B-AC9D-96FFD85B7356}|TestShortUrl.csproj|c:\\users\\home_pc\\desktop\\testshorturl\\models\\createshorturldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CD2444-EAE6-462B-AC9D-96FFD85B7356}|TestShortUrl.csproj|solutionrelative:models\\createshorturldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CD2444-EAE6-462B-AC9D-96FFD85B7356}|TestShortUrl.csproj|c:\\users\\home_pc\\desktop\\testshorturl\\mappers\\urlmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CD2444-EAE6-462B-AC9D-96FFD85B7356}|TestShortUrl.csproj|solutionrelative:mappers\\urlmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CD2444-EAE6-462B-AC9D-96FFD85B7356}|TestShortUrl.csproj|c:\\users\\home_pc\\desktop\\testshorturl\\entities\\shorturl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CD2444-EAE6-462B-AC9D-96FFD85B7356}|TestShortUrl.csproj|solutionrelative:entities\\shorturl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CD2444-EAE6-462B-AC9D-96FFD85B7356}|TestShortUrl.csproj|c:\\users\\home_pc\\desktop\\testshorturl\\migrations\\20251128122634_initmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CD2444-EAE6-462B-AC9D-96FFD85B7356}|TestShortUrl.csproj|solutionrelative:migrations\\20251128122634_initmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,33 +78,79 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\Home_PC\\Desktop\\TestShortUrl\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\Home_PC\\Desktop\\TestShortUrl\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-28T13:13:36.379Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Home_PC\\Desktop\\TestShortUrl\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\Home_PC\\Desktop\\TestShortUrl\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-28T13:13:00.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UrlsController.cs",
+              "DocumentMoniker": "C:\\Users\\Home_PC\\Desktop\\TestShortUrl\\Controllers\\UrlsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UrlsController.cs",
+              "ToolTip": "C:\\Users\\Home_PC\\Desktop\\TestShortUrl\\Controllers\\UrlsController.cs",
+              "RelativeToolTip": "Controllers\\UrlsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T12:27:09.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20251128122634_InitMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Home_PC\\Desktop\\TestShortUrl\\Migrations\\20251128122634_InitMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251128122634_InitMigration.cs",
+              "ToolTip": "C:\\Users\\Home_PC\\Desktop\\TestShortUrl\\Migrations\\20251128122634_InitMigration.cs",
+              "RelativeToolTip": "Migrations\\20251128122634_InitMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T12:26:34.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "WorkerService.cs",
               "DocumentMoniker": "C:\\Users\\Home_PC\\Desktop\\TestShortUrl\\Services\\WorkerService.cs",
               "RelativeDocumentMoniker": "Services\\WorkerService.cs",
               "ToolTip": "C:\\Users\\Home_PC\\Desktop\\TestShortUrl\\Services\\WorkerService.cs",
               "RelativeToolTip": "Services\\WorkerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwFEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T09:09:34.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-27T09:09:34.197Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "UrlMapper.cs",
               "DocumentMoniker": "C:\\Users\\Home_PC\\Desktop\\TestShortUrl\\Mappers\\UrlMapper.cs",
               "RelativeDocumentMoniker": "Mappers\\UrlMapper.cs",
               "ToolTip": "C:\\Users\\Home_PC\\Desktop\\TestShortUrl\\Mappers\\UrlMapper.cs",
               "RelativeToolTip": "Mappers\\UrlMapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T09:03:20.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-27T09:03:20.753Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "CreateUrlResponse.cs",
               "DocumentMoniker": "C:\\Users\\Home_PC\\Desktop\\TestShortUrl\\Models\\CreateUrlResponse.cs",
               "RelativeDocumentMoniker": "Models\\CreateUrlResponse.cs",
@@ -96,12 +158,11 @@
               "RelativeToolTip": "Models\\CreateUrlResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T09:02:14.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-27T09:02:14.405Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "CreateShortUrlDTO.cs",
               "DocumentMoniker": "C:\\Users\\Home_PC\\Desktop\\TestShortUrl\\Models\\CreateShortUrlDTO.cs",
               "RelativeDocumentMoniker": "Models\\CreateShortUrlDTO.cs",
@@ -109,25 +170,23 @@
               "RelativeToolTip": "Models\\CreateShortUrlDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T08:59:50.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-27T08:59:50.565Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "IWorker.cs",
               "DocumentMoniker": "C:\\Users\\Home_PC\\Desktop\\TestShortUrl\\Abstarcts\\IWorker.cs",
               "RelativeDocumentMoniker": "Abstarcts\\IWorker.cs",
               "ToolTip": "C:\\Users\\Home_PC\\Desktop\\TestShortUrl\\Abstarcts\\IWorker.cs",
               "RelativeToolTip": "Abstarcts\\IWorker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T08:57:58.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-27T08:57:58.066Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Home_PC\\Desktop\\TestShortUrl\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -140,20 +199,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Home_PC\\Desktop\\TestShortUrl\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\Home_PC\\Desktop\\TestShortUrl\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T08:50:56.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-27T08:50:56.562Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "ShortUrl.cs",
               "DocumentMoniker": "C:\\Users\\Home_PC\\Desktop\\TestShortUrl\\Entities\\ShortUrl.cs",
               "RelativeDocumentMoniker": "Entities\\ShortUrl.cs",
@@ -161,31 +219,29 @@
               "RelativeToolTip": "Entities\\ShortUrl.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T08:49:17.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-27T08:49:17.181Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ServiceExtensions.cs",
               "DocumentMoniker": "C:\\Users\\Home_PC\\Desktop\\TestShortUrl\\Extensions\\ServiceExtensions.cs",
               "RelativeDocumentMoniker": "Extensions\\ServiceExtensions.cs",
               "ToolTip": "C:\\Users\\Home_PC\\Desktop\\TestShortUrl\\Extensions\\ServiceExtensions.cs",
               "RelativeToolTip": "Extensions\\ServiceExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T08:46:53.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-27T08:46:53.899Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Home_PC\\Desktop\\TestShortUrl\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Home_PC\\Desktop\\TestShortUrl\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-27T08:45:13.675Z",
               "EditorCaption": ""

@@ -43,19 +43,7 @@ namespace TestShortUrl.Services
            
         }
 
-        public async Task RedirectToUrl(string url)
-        {
-            var shortUrl=await _context.Urls.FindAsync(url);
-            if(shortUrl == null)
-            {
-                throw new KeyNotFoundException("Ссылка не найдена");
-            }
-            var httpContext=_httpContextAccessor.HttpContext;
-            if (httpContext != null)
-            {
-                httpContext.Response.Redirect(shortUrl.OldUrl);
-            }
-        }
+        
         private string GenerateShortUrl()
         {
             var chars = new char[6];
@@ -79,6 +67,18 @@ namespace TestShortUrl.Services
             }
             var request=httpContext.Request;
             return $"{request.Scheme}://{request.Host}";
+        }
+
+        public async Task<string> GetOriginalUrl(string url)
+        {
+            if(url == null) 
+                throw new ArgumentException("Укажите ссылку");
+            var shortUrl=await _context.Urls.FindAsync(url);
+            if (shortUrl == null)
+            {
+                throw new ArgumentException("Ссылка не найдена");
+            }
+            return shortUrl.OldUrl;
         }
     }
 }
